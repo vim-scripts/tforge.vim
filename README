@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=340
+
+This is the syntax file for Text::Forge templates. See http://text-forge.sf.net/ for more info on what Text::Forge is. This depends on a good html and perl syntax file, which comes with the default vim distribution.
